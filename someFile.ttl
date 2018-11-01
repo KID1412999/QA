@@ -1,0 +1,50 @@
+@prefix ns1: <http://www.example.org/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix xml: <http://www.w3.org/XML/1998/namespace> .
+@prefix xsd: <http://www.w3.org/2001/XMLSchema#> .
+
+ns1:王义全 ns1:中文名 ns1:王义全 ;
+    ns1:主要成就 ns1:参加两万五千里长征参加抗日战争参加解放战争参与组建大金县森林工业局 ;
+    ns1:信仰 ns1:共产主义 ;
+    ns1:出生地 ns1:四川 ;
+    ns1:出生日期 <http://www.example.org/1912年> ;
+    ns1:国籍 ns1:中华人民共和国 ;
+    ns1:民族 ns1:汉族 ;
+    ns1:职业 <http://www.example.org/军人，干部> ;
+    ns1:配偶 ns1:秦嘉兰 .
+
+ns1:王健林 ns1:中文名 ns1:王健林 ;
+    ns1:主要成就 <http://www.example.org/2013年中国首富>,
+        <http://www.example.org/2014年亚洲第三富豪2015年中国首富2017年亚洲首富第四届中华慈善奖“最具爱心慈善捐赠个人”称号中共十七大代表、第十一届全国政协常委收起>,
+        <http://www.example.org/2014年亚洲第三富豪2015年中国首富2017年亚洲首富第四届中华慈善奖“最具爱心慈善捐赠个人”称号展开主要成就2014年亚洲第三富豪2015年中国首富2017年亚洲首富第四届中华慈善奖“最具爱心慈善捐赠个人”称号中共十七大代表、第十一届全国政协常委收起> ;
+    ns1:儿子 ns1:王思聪 ;
+    ns1:出生地 ns1:四川省广元市苍溪县中土镇 ;
+    ns1:出生日期 <http://www.example.org/1954年10月24日> ;
+    ns1:别名 ns1:王建林 ;
+    ns1:国籍 ns1:中国 ;
+    ns1:外文名 ns1:WangJianlin ;
+    ns1:妻子 ns1:林宁 ;
+    ns1:星座 ns1:天蝎座 ;
+    ns1:母亲 ns1:秦嘉兰 ;
+    ns1:毕业院校 <http://www.example.org/辽宁大学党政专修班（三年制）> ;
+    ns1:民族 ns1:汉族 ;
+    ns1:父亲 ns1:王义全 ;
+    ns1:职业 <http://www.example.org/实业家、收藏家、慈善家> .
+
+ns1:王思聪 ns1:中文名 ns1:王思聪 ;
+    ns1:主要成就 <http://www.example.org/IG电子竞技俱乐部创始人《2017中国顶级投资人排行榜TOP50》第37名> ;
+    ns1:代表作品 <http://www.example.org/《小葱秀》> ;
+    ns1:出生地 ns1:辽宁省大连市 ;
+    ns1:出生日期 <http://www.example.org/1988年1月3日> ;
+    ns1:别名 <http://www.example.org/国民老公娱乐圈纪委书记[9]> ;
+    ns1:国籍 ns1:中华人民共和国 ;
+    ns1:外文名 ns1:Sephirex ;
+    ns1:星座 ns1:摩羯座 ;
+    ns1:母亲 ns1:林宁 ;
+    ns1:毕业院校 ns1:伦敦大学学院 ;
+    ns1:民族 ns1:汉族 ;
+    ns1:父亲 ns1:王健林 ;
+    ns1:祖籍 ns1:四川省广元市苍溪县元坝镇 ;
+    ns1:职业 ns1:北京普思投资董事长 .
+
