@@ -3,7 +3,7 @@
 问答系统 
 主程序QueryWeb.py 
 # 版本 
-Python 3.6.4
+Windows Python 3.6.4
 # 使用的模块
 foolnltk
 jieba 
