@@ -2,6 +2,8 @@
 轻喷，比较乱，以后有时间慢慢整理吧 
 问答系统 
 主程序QueryWeb.py 
+# 版本 
+Python 3.6.4
 # 使用的模块
 foolnltk
 jieba 
