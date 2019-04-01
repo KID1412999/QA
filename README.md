@@ -1,5 +1,6 @@
 # QA
 轻喷，比较乱，以后有时间慢慢整理吧 
+CSDN博客地址https://mp.csdn.net/mdeditor/83691799#
 问答系统 
 主程序QueryWeb.py 
 # 版本 
